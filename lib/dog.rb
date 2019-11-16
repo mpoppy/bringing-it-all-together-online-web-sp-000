@@ -46,4 +46,9 @@ class Dog
     dog.save
   end
 
+  def update
+    
+
+  end
+
 end
