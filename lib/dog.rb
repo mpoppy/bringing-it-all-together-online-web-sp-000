@@ -32,11 +32,11 @@ class Dog
   end
 
   def save
-    
+
   end
 
   def update
-    
+
   end
 
 end
