@@ -31,7 +31,7 @@ class Dog
     DB[:conn].execute(sql)
   end
 
-  def save
+  def self.save
     @@all
   end
 
