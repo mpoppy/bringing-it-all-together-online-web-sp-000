@@ -41,7 +41,7 @@ class Dog
     self
   end
 
-  def update
+  def create
 
   end
 
